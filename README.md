@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas vindas ao meu perfil 
 
-<!--
-**XxPASCHOALxX/XxPASCHOALXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é PASCHOAL
 
-Here are some ideas to get you started:
+-Estou estudando na [alura](https://www.alura.com.br/)
+-estou me desenvolvendo na linguagem JavaScript
+-utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entrara em contato comigo 📧
+
+0001079234792SP@al.educacao.sp.gov.br
+
+@joão vitor paschoal
+
+![](https://media1.tenor.com/m/pwxV91vxbKIAAAAC/lula-da-silva-jair-bolsonaro.gif)
